@@ -39,6 +39,6 @@ public class SolutionTest {
 
     @Test
     public void test7() {
-        assertEquals("Goodbye   World!", sut.reverseString("!dlroW   eybooG"));
+        assertEquals("Goodbye   World!", sut.reverseString("!dlroW   eybdooG"));
     }
 }
